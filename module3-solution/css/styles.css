@@ -30,6 +30,7 @@ h1, h2 {
 
 .navbar-brand {
 	border: 10px;
+	margin-bottom: 3px;
 	font-size: 2em;
 }
 
