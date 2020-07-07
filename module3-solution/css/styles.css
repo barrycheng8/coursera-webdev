@@ -1,0 +1,61 @@
+/******  HTML Tag Styles ******/
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #F5FAB0;
+}
+
+p {
+	padding: 5px;
+	margin: 0;
+}
+
+p.item {
+	font-size: 2em;
+	color: white;
+}
+
+a, a:hover {
+	color: white;
+}
+
+h1, h2 {
+	font-weight: bold;
+
+}/****** End HTML Tag Styles ******/
+
+/******** Navbar Styles ********/
+
+.navbar-brand {
+	border: 10px;
+	font-size: 2em;
+}
+
+#header-nav {
+	background-color: #1058E8;
+	border: 0;
+}
+
+/******** End Navbar Styles *********/
+
+
+/******* Menu Div Styles *********/
+.item-frame {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#chicken {
+	background-color: #2DCD93;
+}
+
+#beef {
+	background-color: #A42FD7;
+}
+
+#sushi {
+	background-color: #F18A1B;
+}
+/******* End Menu Div Styles *********/
